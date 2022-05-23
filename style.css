@@ -1,0 +1,38 @@
+html{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h1{
+   font-size: 50px;
+}
+
+
+header{
+    background-color:dodgerblue;
+}
+
+#logo {
+    height: 50px;
+    
+}
+
+#celeste{
+    color:deepskyblue;
+}
+
+#in_grigio{
+    color:grey;
+    font-size: large;
+}
+
+.giallo{
+    background-color:rgb(255, 255, 124);
+}
+
+th{
+    background-color: dodgerblue;
+    color: white;
+}
+.tsfondo{
+    background-color:rgba(133, 196, 198, 0.682);
+}
