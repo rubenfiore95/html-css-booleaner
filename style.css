@@ -8,11 +8,14 @@ h1{
 
 
 header{
-    background-color:dodgerblue;
+    background-image: url("img/p.png");
+    background-size: 248px;
+    background-color: dodgerblue;
+
 }
 
 #logo {
-    height: 50px;
+    height: 70px;
     
 }
 
@@ -35,4 +38,37 @@ th{
 }
 .tsfondo{
     background-color:rgba(133, 196, 198, 0.682);
+}
+
+#gg{
+    color: gray;
+}
+
+#back1{
+    background-image: url("img/mon.jpg");
+    background-size: cover;
+    width: 260px;
+    height: 200px;
+    text-align: center;
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+
+}
+
+#back2{
+    background-image: url("img/gr.jpg");
+    background-size: cover;
+    width: 260px;
+    height: 200px;
+    text-align: center;
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+    
+}
+
+.biancone{
+    color: white;
+    
 }
