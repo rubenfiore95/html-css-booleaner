@@ -12,7 +12,8 @@ header{
     background-size: contain;
     background-color: dodgerblue;
     padding-top: 26px;
-  
+
+}
 
 #logo {
     height: 70px;
@@ -46,7 +47,7 @@ th{
 
 #back1{
     background-image: url("img/mon.jpg");
-    background-size: cover;
+    background-size: contain;
     width: 260px;
     height: 200px;
     text-align: center;
@@ -58,7 +59,7 @@ th{
 
 #back2{
     background-image: url("img/gr.jpg");
-    background-size: cover;
+    background-size: contain;
     width: 260px;
     height: 200px;
     text-align: center;
